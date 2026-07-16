@@ -1,5 +1,6 @@
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Iterator;
 
 public class Hash {
     public static void main(String[] args) {
