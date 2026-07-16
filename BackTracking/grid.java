@@ -1,3 +1,4 @@
+
 public class grid {
 
     public static int gridways(int i, int j, int n, int m){

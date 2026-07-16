@@ -1,3 +1,4 @@
+
 public class nqueens {
 
     public static boolean safeQueen(char board[][], int row, int col){

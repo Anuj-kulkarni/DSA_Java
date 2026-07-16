@@ -1,3 +1,4 @@
+
 public class pratice {
 
     public static boolean safequeen(char board[][], int row, int col){
